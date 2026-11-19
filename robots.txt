@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3km-collab.github.io/international-real-estate-tax-incentive-grant-da-31/sitemap.xml
