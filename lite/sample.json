@@ -1,0 +1,122 @@
+[
+ {
+  "lender": "Fannie Mae DUS program (via DUS lenders)",
+  "type": "Agency CMBS (permanent)",
+  "geography": "US multifamily",
+  "min_loan": "$1,000,000 (typical)",
+  "max_loan": "$300,000,000 (per loan, program caps higher)",
+  "max_ltv": "~80% (per DUS)",
+  "property_types": "Market-rate & affordable multifamily",
+  "signature_terms": "30-yr amortizations; low fixed rates; non-recourse; annual CAP given via DUS lenders",
+  "official_url": "https://multifamily.fanniemae.com/financing-options",
+  "status_stamp": "compiled 2026-11"
+ },
+ {
+  "lender": "Freddie Mac Optigo (via Optigo lenders)",
+  "type": "Agency CMBS (permanent)",
+  "geography": "US multifamily",
+  "min_loan": "$1,000,000 (typical)",
+  "max_loan": "$300,000,000",
+  "max_ltv": "~80%",
+  "property_types": "Multifamily (incl. student/seniors via programs)",
+  "signature_terms": "10-30 yr terms; forward commitments; non-recourse",
+  "official_url": "https://mf.freddiemac.com/products/",
+  "status_stamp": "compiled 2026-11"
+ },
+ {
+  "lender": "HUD/FHA 221(d)(4) (via MAP lenders)",
+  "type": "Government insured (construction→perm)",
+  "geography": "US multifamily",
+  "min_loan": "$10,000,000 (practical minimum)",
+  "max_loan": "$500,000,000+",
+  "max_ltv": "Up to ~87% (new construction market-rate)",
+  "property_types": "Multifamily new construction / substantial rehab",
+  "signature_terms": "40-yr amortization; non-recourse; rate set at conversion",
+  "official_url": "https://www.hud.gov/program_offices/housing/mfh/progdesc/purindx",
+  "status_stamp": "compiled 2026-11"
+ },
+ {
+  "lender": "HUD/FHA 223(f) (via MAP lenders)",
+  "type": "Government insured (acquisition/refi)",
+  "geography": "US multifamily",
+  "min_loan": "$1,000,000 (practical minimum)",
+  "max_loan": "$500,000,000+",
+  "max_ltv": "Up to ~83.3%",
+  "property_types": "Multifamily acquisition/refi",
+  "signature_terms": "35-yr amortization; non-recourse; assumable",
+  "official_url": "https://www.hud.gov/program_offices/housing/mfh/progdesc/purindx",
+  "status_stamp": "compiled 2026-11"
+ },
+ {
+  "lender": "Greystone",
+  "type": "Agency / FHA lender",
+  "geography": "US multifamily",
+  "min_loan": "$5,000,000 (typical)",
+  "max_loan": "$500,000,000+",
+  "max_ltv": "Per program (DUS/FHA caps)",
+  "property_types": "Multifamily & healthcare (HUD)",
+  "signature_terms": "Top-5 agency lender; construction-to-perm packages",
+  "official_url": "https://greyco.com/",
+  "status_stamp": "compiled 2026-11"
+ },
+ {
+  "lender": "Walker & Dunlop",
+  "type": "Agency + broker + bridge",
+  "geography": "US multifamily",
+  "min_loan": "$1,000,000 (typical)",
+  "max_loan": "$500,000,000+",
+  "max_ltv": "Per program",
+  "property_types": "Multifamily",
+  "signature_terms": "Largest Fannie DUS lender by volume (recent years); bridge arm available",
+  "official_url": "https://www.walkerdunlop.com/",
+  "status_stamp": "compiled 2026-11"
+ },
+ {
+  "lender": "Berkadia",
+  "type": "Agency + broker",
+  "geography": "US multifamily",
+  "min_loan": "$1,000,000 (typical)",
+  "max_loan": "$500,000,000+",
+  "max_ltv": "Per program",
+  "property_types": "Multifamily",
+  "signature_terms": "Top-3 Fannie/Freddie seller-servicer; JV equity desks",
+  "official_url": "https://berkadia.com/",
+  "status_stamp": "compiled 2026-11"
+ },
+ {
+  "lender": "CBRE Capital Markets (Debt & Structured Finance)",
+  "type": "Debt broker + lender",
+  "geography": "Global",
+  "min_loan": "$10,000,000 (institutional typical)",
+  "max_loan": "$1,000,000,000+",
+  "max_ltv": "Asset-dependent",
+  "property_types": "All commercial types",
+  "signature_terms": "Largest CRE debt broker; access to 100s of lenders",
+  "official_url": "https://www.cbre.com/services/cbre-capital-markets",
+  "status_stamp": "compiled 2026-11"
+ },
+ {
+  "lender": "JLL Capital Markets",
+  "type": "Debt broker",
+  "geography": "Global",
+  "min_loan": "$10,000,000 (institutional typical)",
+  "max_loan": "$1,000,000,000+",
+  "max_ltv": "Asset-dependent",
+  "property_types": "All commercial types",
+  "signature_terms": "Debt advisory + equity placement",
+  "official_url": "https://www.us.jll.com/en/services/capital-markets",
+  "status_stamp": "compiled 2026-11"
+ },
+ {
+  "lender": "Eastdil Secured",
+  "type": "Investment bank (debt & equity)",
+  "geography": "Global (institutional)",
+  "min_loan": "$25,000,000 (typical)",
+  "max_loan": "$2,000,000,000+",
+  "max_ltv": "Asset-dependent",
+  "property_types": "Institutional CBD office, retail, industrial, hotels",
+  "signature_terms": "Elite institutional debt/equity placement",
+  "official_url": "https://www.eastdil.com/",
+  "status_stamp": "compiled 2026-11"
+ }
+]
